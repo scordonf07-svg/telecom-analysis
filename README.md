@@ -31,7 +31,7 @@ Analizar el comportamiento de los usuarios de ConnectaTel (empresa de telecomuni
 ### Opción 1 — Google Colab (recomendado)
 1. Abre [Google Colab](https://colab.research.google.com/)
 2. Ve a `Archivo → Abrir notebook → GitHub`
-3. Pega la URL de este repositorio
+3. gh repo clone scordonf07-svg/telecom-analysis
 4. Selecciona el archivo `.ipynb` y ejecútalo celda por celda
 
 ### Opción 2 — Local con Jupyter
